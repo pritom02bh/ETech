@@ -6,3 +6,6 @@ Technology Used for this Project:
 2. Javascript
 3. PostgreSQL
 4. HTML5, CSS3, bootstrap
+
+
+Status: Developing
